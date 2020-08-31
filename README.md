@@ -1,2 +1,2 @@
 # CS314Solutions
-A repository for storing solutions to CS 314 assignments
+A private collection of my solutions for Mike Scott's CS 314 assignments
